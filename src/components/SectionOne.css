@@ -1,0 +1,58 @@
+.gap-16{
+    gap: 16px;
+}
+
+.section_one_handle h4{
+    
+    font-size: 50px;
+  font-weight: 700;
+  font-style: bold;
+  color: #FFFFFF;
+  line-height: 1.0em;
+}
+
+.section_one_handle h4 span{
+    background-image: linear-gradient(
+        45deg,
+        #ea580c , #d946ef, #4f46e5
+        
+        
+        );
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent; 
+        font-size: 50px;
+}
+
+.section_one_handle h5{
+    margin-top: 24px;
+    font-size: 18px;
+    color: #59595B;
+}
+.section_handle_content .border_icons,.background_video{
+   
+    background-color: #333333;
+    border-radius: 5px;
+    
+    background-image: linear-gradient(
+        45deg,
+        #ea580c , #d946ef, #4f46e5
+        
+        
+        );
+        
+        -webkit-text-fill-color: transparent; 
+}
+
+.background_video video{
+   
+    position: relative;
+    left: 7%;
+    bottom: -10%;
+    margin: auto;
+}
+
+
+
+
+  
+

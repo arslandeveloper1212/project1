@@ -1,0 +1,9 @@
+.footer_company_second h6:hover{
+    cursor: pointer;
+    color: white;
+    transition: 0.2s ease-in;
+}
+.footer_company_second h3{
+    cursor: pointer;
+    color: white;
+}

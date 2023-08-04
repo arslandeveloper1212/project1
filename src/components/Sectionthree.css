@@ -1,0 +1,97 @@
+.sectionthree_content h3 span{
+    background-image: linear-gradient(
+        45deg,
+        #ea580c , #d946ef, #4f46e5);
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent; 
+        font-size: 50px;
+}
+
+.card{
+  background: none;
+}
+
+.card-body{
+  background: #111827;
+  
+  
+}
+
+.button_gradient_full_life {
+    font-size: 14px;
+    padding: 3px 10px;
+    background-image: linear-gradient(to right, #ea580c , #d946ef, #4f46e5);
+    border-radius: 4px;
+    border: none;
+    color: white;
+}
+.card-body h2{
+  margin-top: 15px;
+  font-size: 54px;
+}
+.card-body p{
+ 
+  font-size: 15px;
+ margin-bottom: 0;
+}
+
+.green_color_paragraph{
+  font-size: 13px;
+  color: green;
+}
+
+.card-body h3{
+  
+  font-size: 18px;
+}
+
+.card-body h3 span{
+
+  background-image: linear-gradient(
+    45deg,
+    #ea580c , #d946ef, #4f46e5
+    
+    
+    );
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent; 
+    font-size: 16px;
+}
+
+
+.border_gradient{
+  border: 10px solid;
+  border-image-slice: 1;
+  border-width: 3px;
+  background: none;
+  color: white;
+  padding: 10px 20px;
+
+ 
+}
+.button_gradient_full_forever_outline{
+  border-image-source: linear-gradient(to left, #743ad5, #d53a9d);
+}
+
+.protect_icon_and_text h5, span{
+  font-size: 12px;
+}
+.clicking_grey_dark{
+  color: grey;
+}
+.clicking_grey_dark span{
+  
+  color: rgb(175, 175, 175);
+}
+
+
+.text_detail_here{
+  
+  font-size: 11px;
+}
+
+
+
+
+ 
+    
